@@ -1,6 +1,6 @@
 # Next Finance Tracker
 
-Next Finance Tracker is a comprehensive finance management application built with Next.js, designed to help users track and manage their finances in real time.
+Next Finance Tracker is a full stack finance management application built with Next.js, designed to help users track and manage their finances in real time.
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@ Next Finance Tracker is a comprehensive finance management application built wit
 
 ## Features
 
-1. **Secure Authentication:** Robust user authentication with Clerk.
+1. **Secure Authentication:** Secure user authentication with Clerk.
 2. **Real-Time Tracking:** Add and visualize incomes and expenses in real-time.
 3. **Data Management:** Edit and delete income or expense entries.
 4. **Profile Management:** View comprehensive user details in the profile section.
