@@ -18,7 +18,7 @@ Next Finance Tracker is a full stack finance management application built with N
 4. **Profile Management:** View comprehensive user details in the profile section.
 5. **Custom Categories:** Add new categories for income and expenses from profile section.
 6. **Filtering:** Apply filters to view specific incomes or expenses.
-7. **Dashboard Summary:** View a summarized dashboard with a pie chart for better visualization.
+7. **Dashboard Summary:** View a summarized dashboard with pie charts for better visualization.
 
 ## Demo Video of the Project
 
